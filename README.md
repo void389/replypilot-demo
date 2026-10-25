@@ -31,4 +31,8 @@ The page uses labeled inputs, live status regions, visible keyboard focus, a ski
 
 ## Deployment
 
-The `public` directory is deployable on any free static host. `server.mjs` is included for local and Node hosting. A public deployment URL and final desktop/mobile screenshots should be generated only when the active bid is awarded so the three-hour delivery window begins from a fresh verified build.
+Public demo: https://void389.github.io/replypilot-demo/
+
+Source repository: https://github.com/void389/replypilot-demo
+
+The `public` directory is deployable on any static host. `server.mjs` is included for local and Node hosting. Final desktop and mobile captures are in `screenshots/`.
